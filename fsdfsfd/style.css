@@ -1,0 +1,25 @@
+body{
+    font-family: "Namdhinggo", serif;
+}
+span{
+    background-color: red;
+}
+.items-center{
+    text-align: center;
+}
+b{
+    color: red;
+}
+h1{
+    text-align: center;
+    color: blue
+}
+.items-left{
+    text-align: left;
+}
+h4{
+    color: rgb(112, 112, 188)
+}
+i{
+    font-size: 12px;
+}
